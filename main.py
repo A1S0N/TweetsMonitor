@@ -1,8 +1,8 @@
 #!/usr/bin/python
 from twitter import *
 import telepot
-bot = telepot.Bot('568981476:AAFlxW4Py2zGtS7gFtJQcwbvk9TM8TwCT4Y')
-myId = '313604154'
+bot = telepot.Bot(#')
+myId = '#'
 config = {}
 execfile("config.py", config)
 twitter = Twitter(
